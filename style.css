@@ -1,0 +1,29 @@
+.bio {
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+}
+
+h2 {
+    text-align: left;
+    color: black;
+    font-size: 30px;
+}
+
+a:link {
+  color: hotpink;
+}
+
+a:visited {
+  color: hotpink;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: hotpink;
+}
